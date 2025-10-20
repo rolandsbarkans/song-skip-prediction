@@ -1,7 +1,6 @@
-## 🎧 Spotify Skip Prediction
+## 🎧 Song Skip Prediction
 
-This project uses my personal Spotify streaming history to build a machine learning model that predicts whether I will skip a song.  
-The entire analysis from data processing to the final model interpretation is detailed in the [`skip_predict_model.ipynb`](skip_predict_model.ipynb) notebook.
+This project uses my personal Spotify streaming history to build a machine learning model that predicts whether I will skip a song. The entire analysis from data processing to the final model interpretation is detailed in the [`skip_predict_model.ipynb`](skip_predict_model.ipynb) notebook.
 
 The final tuned **Random Forest** model successfully identifies **67%** of the songs I would skip, revealing that **repetition fatigue** is the single most important predictor of my listening behavior.
 
