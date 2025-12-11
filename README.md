@@ -38,5 +38,5 @@ pip install -r requirements.txt
 ### 💻 Usage
 Launch the Jupyter Notebook to see the code and analysis:
 ```bash
-jupyter notebook main.ipynb
+jupyter notebook skip_predict_model.ipynb
 ```
